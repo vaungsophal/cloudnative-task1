@@ -1,0 +1,13 @@
+{
+  "name": "cloudnative-task1",
+  "version": "1.0.0",
+  "description": "NodeJS Express server with CRUD APIs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
